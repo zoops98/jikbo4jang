@@ -1,0 +1,5 @@
+{
+  "name": "Zoops Jikbo Maker",
+  "description": "Generates a 4-page Exam Review (Jikbo) document from English textbook PDFs using Gemini.",
+  "requestFramePermissions": []
+}
